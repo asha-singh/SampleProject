@@ -6,7 +6,8 @@ def timer():
     
     time.sleep(1)
     timer()
+timer()
 
-timer()    
-
-digitalClock()    
+def fetch():
+    print('this is test for fetch')
+    print('another test')
