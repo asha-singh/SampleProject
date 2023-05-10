@@ -9,4 +9,4 @@ def timer():
 
 timer()    
 
-digitalClock()    
+fetch() 
