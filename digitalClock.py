@@ -11,6 +11,6 @@ timer()
 def timer2():
     print('this is test for fetch')
     print('another test')
-    print('fetch from remote')
+    print('fetch from remote test')
     
 
