@@ -8,6 +8,8 @@ def timer():
     timer()
 timer()
 
-def fetch():
+def timer2():
     print('this is test for fetch')
     print('another test')
+    
+
