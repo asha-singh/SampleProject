@@ -11,6 +11,13 @@ timer()
 def timer2():
     print('this is test for fetch')
     print('another test')
-    print(testing fetch and merge on local repo from remote repo)
+
+    print("testing gdhgk and merge on local repo from remote repo")
+
+def timer3():
+    print('fetch')   
+    
+def teiner4():
+    print('test is branch')    
     
 
